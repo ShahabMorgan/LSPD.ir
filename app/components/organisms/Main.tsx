@@ -7,7 +7,6 @@ export default function Main() {
   return (
     <div className="flex flex-col justify-center gap-main items-center flex-1 text-main my-5">
       <Picture src={mainPic} alt="mainPic"></Picture>
-      <div> کتابچه اداره پلیس لوس سانتوس</div>
       <Button>
         <a
           target="new"
